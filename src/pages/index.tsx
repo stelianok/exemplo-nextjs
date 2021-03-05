@@ -1,5 +1,4 @@
 import { GetServerSideProps } from 'next';
-import { useState } from 'react';
 import { Title } from '../styles/pages/Home';
 
 interface IProduct {
